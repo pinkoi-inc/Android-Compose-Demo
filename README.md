@@ -1,4 +1,6 @@
 # Android-Compose-Demo
+此為 Medium 介紹 Compose 的 Demo。
+Link [在這](https://medium.com/pinkoi-engineering/%E7%8F%BE%E4%BB%A3%E5%8C%96-android-jetpack-compose-part-1-f436fd3ccc41) 歡迎前往留下建議和提問
 
 2021 年 7月時迎來了 Jetpack Compose 1.0 正式版，而 Android Studio 也正式發布 Arctic Fox 版本，內建支援 Compose preview
 
